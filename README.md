@@ -82,11 +82,4 @@ Analyzes diff patterns (additions/deletions) to detect over-editing, hallucinati
 
 ---
 
-## ▶️ Usage
-
-```bash
-git clone <your-repo>
-pip install -r requirements.txt
-python src/run_metrics.py --dataset aggregate_dataset.csv
-
 
