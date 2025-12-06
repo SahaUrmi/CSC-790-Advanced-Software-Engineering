@@ -77,8 +77,7 @@ Analyzes diff patterns (additions/deletions) to detect over-editing, hallucinati
 1. Fetch PR metadata, reviews, comments, and CI results via GitHub REST API  
 2. Normalize and preprocess signals  
 3. Apply four developer-centric metrics  
-4. Compare LLM vs non-LLM PR behavior  
-5. Interpret findings with respect to RQ1 and RQ2  
+4. Interpret findings with respect to RQ1 and RQ2  
 
 ---
 
